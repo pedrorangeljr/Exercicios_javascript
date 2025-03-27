@@ -9,7 +9,7 @@ const prompt = require('prompt-sync')();
 
 let N = parseInt(prompt(""));
 
-for(i = 0; i <= N; i++) {
+for (i = 0; i <= N; i++) {
 
     console.log(`${i}`);
 }
