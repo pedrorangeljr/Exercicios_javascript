@@ -14,5 +14,9 @@ for (i = 0; i < 5; i++) {
 
     let numero = prompt("");
     vetor += numero;
-
+    
 }
+
+vetor2 = [vetor];
+
+console.log(`${vetor2}`);
